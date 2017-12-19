@@ -1,0 +1,8 @@
+{
+  "name": "simple-flow-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vincentschroeder/simple-flow-engine.git",
+  "author": "Vincent <vs@hubrick.com>",
+  "license": "MIT"
+}
